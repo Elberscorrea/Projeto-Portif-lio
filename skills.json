@@ -1,0 +1,73 @@
+[
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png",
+        "description": "Runtime para execução de JavaScript no lado do servidor."
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png",
+        "description": "Framework para criar APIs e aplicações web com Node.js."
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png",
+        "description": "Framework Python para desenvolvimento web robusto e escalável."
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/color/48/000000/flask.png",
+        "description": "Framework leve em Python para APIs e aplicativos web simples."
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png",
+        "description": "Framework Java para desenvolvimento de aplicações empresariais."
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png",
+        "description": "Banco de dados relacional amplamente utilizado em sistemas de Back-End."
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png",
+        "description": "Banco de dados NoSQL ideal para aplicações modernas e escaláveis."
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png",
+        "description": "Banco de dados relacional avançado com suporte a consultas complexas."
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png",
+        "description": "Linguagem versátil usada para automação, APIs, e sistemas robustos."
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+        "description": "Linguagem de programação amplamente utilizada em aplicações empresariais."
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png",
+        "description": "Sistema de controle de versões essencial para desenvolvimento colaborativo."
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png",
+        "description": "Ferramenta para criar e gerenciar containers de aplicações."
+    },
+    
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png",
+        "description": "Plataforma para implantação rápida de aplicações."
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png",
+        "description": "Serviços em nuvem para implantação e escalabilidade de sistemas."
+    }
+]
